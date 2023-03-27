@@ -82,5 +82,6 @@ body {
     justify-content: space-between;
     height: 100vh;
     margin: auto;
+    border: none;
   }
 }
