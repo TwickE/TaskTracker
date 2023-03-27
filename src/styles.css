@@ -74,3 +74,13 @@ body {
   flex: 2;
   height: 20px;
 }
+
+@media only screen and (max-width: 500px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+    margin: auto;
+  }
+}
